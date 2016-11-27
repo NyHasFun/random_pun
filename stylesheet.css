@@ -17,29 +17,12 @@ body {
   border: 1px black solid;
 }
 
-.random {
-  position: relative;
-  background-color: #ccc;
-}
-
-.buttons {
-  padding: 0px;
-}
-
-.buttons li {
-  /* removes the bullet points*/
-  display: inline;
-}
-
-h2 {}
-
-.random {
+#joke, #answer {
   padding: 10px;
   border: 0px solid black;
   margin: auto;
+  position: relative;
 }
-
-button {}
 
 .author {
   position: fixed;
