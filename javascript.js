@@ -15,7 +15,7 @@ var jokes = [
   {joke: "What do you get when you put root beer in a square glass? ",
   answer:"Beer" },
 
-  {joke: "Did you hear about the guy who invented Lifesavers?"
+  {joke: "Did you hear about the guy who invented Lifesavers?",
   answer: "They say he made a mint."},
 
   {joke: "What’s Forrest Gump’s password?",
